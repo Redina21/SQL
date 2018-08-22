@@ -1,0 +1,10 @@
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (1, '10/28/2013', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (2, '06/06/1994', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (3, '11/19/2014', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (4, '04/11/2015', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (5, '09/04/1994', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (6, '09/06/1996', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (7, '11/18/2012', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (8, '10/29/1994', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (9, '06/26/1997', 72, 8, 80);
+insert into EmployeePaystubs (employeeId, date, totalWorkHours, totalVacationHours, payPeriodHours) values (10, '06/26/1996', 72, 8, 80);

@@ -1,0 +1,10 @@
+insert into Email (emailId, employeeId, emailAddress) values (1, 1, 'devans0@woothemes.com');
+insert into Email (emailId, employeeId, emailAddress) values (2, 2, 'rwarren1@trellian.com');
+insert into Email (emailId, employeeId, emailAddress) values (3, 3, 'rriley2@earthlink.net');
+insert into Email (emailId, employeeId, emailAddress) values (4, 4, 'cmills3@over-blog.com');
+insert into Email (emailId, employeeId, emailAddress) values (5, 5, 'egriffin4@usda.gov');
+insert into Email (emailId, employeeId, emailAddress) values (6, 6, 'calexander5@hubpages.com');
+insert into Email (emailId, employeeId, emailAddress) values (7, 7, 'hjenkins6@vinaora.com');
+insert into Email (emailId, employeeId, emailAddress) values (8, 8, 'tortiz7@squidoo.com');
+insert into Email (emailId, employeeId, emailAddress) values (9, 9, 'tryan8@toplist.cz');
+insert into Email (emailId, employeeId, emailAddress) values (10, 10, 'fburke9@omniture.com');

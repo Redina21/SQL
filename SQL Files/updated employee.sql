@@ -1,0 +1,10 @@
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (1, 'Aaron', 'Kelly', '$22.23', 'akelly0', 'akelly0', '08/03/2013');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (2, 'Kelly', 'Spencer', '$24.25', 'kspencer1', 'kspencer1', '09/01/1998');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (3, 'Antonio', 'Butler', '$24.09', 'abutler2', 'abutler2', '06/08/2009');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (4, 'Alan', 'Lewis', '$15.56', 'alewis3', 'alewis3', '07/11/1999');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (5, 'Sharon', 'Greene', '$28.16', 'sgreene4', 'sgreene4', '01/31/2013');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (6, 'Matthew', 'Harrison', '$22.28', 'mharrison5', 'mharrison5', '11/30/2013');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (7, 'Michael', 'Shaw', '$27.19', 'mshaw6', 'mshaw6', '11/27/2009');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (8, 'Lillian', 'Fernandez', '$17.57', 'lfernandez7', 'lfernandez7', '11/29/1995');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (9, 'Melissa', 'Lewis', '$17.00', 'mlewis8', 'mlewis8', '01/17/2010');
+insert into employee (employeeId, firstName, lastName, hourlyPayRate, userName, password, hireDate) values (10, 'Judith', 'Fisher', '$21.95', 'jfisher9', 'jfisher9', '09/26/2002');

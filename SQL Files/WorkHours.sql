@@ -1,0 +1,10 @@
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (1, '10/12/2015', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (2, '09/20/2014', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (3, '09/06/2010', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (4, '09/22/2000', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (5, '11/16/1999', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (6, '09/13/1998', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (7, '08/01/1994', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (8, '04/01/2006', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (9, '07/12/1993', '8:00 AM', '4:00 PM', 8);
+insert into workhours (employeeId, date, startTime, endTime, totalHours) values (10, '05/05/2002', '8:00 AM', '4:00 PM', 8);
